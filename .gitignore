@@ -1,0 +1,9 @@
+# MASM and linker build artifacts
+*.obj
+*.exe
+*.lst
+*.map
+*.pdb
+
+# Build output folder
+build/
